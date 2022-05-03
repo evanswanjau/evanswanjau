@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Evans Wanjau's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanswanjau&count_private=true)
