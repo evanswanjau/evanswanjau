@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Evans Wanjau! <img src="https://media.tenor.com/BxnjISc-LJgAAAAi/rocket-spaceship.gif" width="30"/></h1>
 
 
-<p>I'm a passionate programmer with 8+ years of professional experience, designing and building for the web. Currently residing in <b>Nairobi, Kenya</b>🇰🇪.</p>
+<p>I'm a passionate software engineer with 8+ years of professional experience, designing and building for the web.<br/> Currently residing in <b> Nairobi, Kenya</b> 🇰🇪</p>
 <h2>Things I code with</h2>
 <h3>Design</h3>
 <p>
